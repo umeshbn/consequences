@@ -6,7 +6,7 @@ class Brands{
 				}
 			}
 			  public static void main(String[] args){
-			    String[] drinks={"water","cold water","manshion house","singnature","old munk"};
+			    String[] drinks={"water","cold water","local water"};
 				printAll(drinks);
 			  System.out.println();
 				drinks[2]="the barnd OM";
